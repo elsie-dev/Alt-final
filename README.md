@@ -1,7 +1,7 @@
-# ALT- OF ENGINEERING 
+# ALT- SCHOOL OF ENGINEERING 
 ## V2 First Semester Assignment
 Summary:
-Converting figma design learned in the first semester.
+Converting figma design learned in the first semester to code and deploying the application
 
 ## References Used:
 - [Figma Design](https://www.figma.com/file/vJslKKLyFWKkQ5xIO5Q4CG/Alt-(Copy)?type=design&node-id=1-242&mode=design&t=r6gChv5b7eiNVFkT-0)
